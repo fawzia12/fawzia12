@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fawzia</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fawzia12&label=Profile%20views&color=0e75b6&style=flat" alt="fawzia12" /> </p>
+<p align="left"> <img src= "https://assets6.lottiefiles.com/private_files/lf30_jtkhrafg.json" />/> </p>
 
 - 🔭 I’m currently working on **ecommerce _App**
 
