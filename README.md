@@ -1,29 +1,35 @@
+<!-- Typing animation for "Hi, I'm Fawzia" -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Snow Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3F92F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Fawzia" alt="Typing SVG" />
 </p>
 
+<!-- Bubble-style animated line -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" height="30" /> A passionate frontend developer
+</h3>
+
+<!-- Developer GIF -->
 <p align="center">
-  <!-- Typing animation GIF below; replace URL if you want another -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing Animation" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Fawzia</h1>
-<h3 align="center">A passionate frontend developer</h3>
+---
 
 - 🔭 I’m currently working on **ecommerce _App_**
-
 - 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Hackathon**
-
 - 📫 How to reach me: **fawziarahman280@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/fawzia-rahman-2b705a294/" target="_blank">
+  <a href="https://www.linkedin.com/in/fawzia-rahman-2b705a294/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,6 +56,9 @@
   </a>
 </p>
 
+---
+
+<!-- GitHub Stats -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawzia12&show_icons=true&locale=en&layout=compact" alt="fawzia12" />
 </p>
