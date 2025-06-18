@@ -1,16 +1,11 @@
-<!-- Typing animation for "Hi, I'm Fawzia" -->
+<!-- ❄️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3F92F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Fawzia" alt="Typing SVG" />
 </p>
 
-<!-- Bubble-style animated line -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" height="30" /> A passionate frontend developer
-</h3>
-
-<!-- Developer GIF -->
+<!-- ❄️ Snow/Bubble Style Background using aesthetic GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://i.gifer.com/7efs.gif" width="100%" />
 </p>
 
 ---
