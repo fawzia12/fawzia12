@@ -4,9 +4,7 @@
 </p>
 
 <!-- ❄️ Snow/Bubble Style Background using aesthetic GIF -->
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="100%" />
-</p>
+
 
 ---
 
