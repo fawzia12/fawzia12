@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Snow Animation" />
 </p>
 
+<p align="center">
+  <!-- Typing animation GIF below; replace URL if you want another -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing Animation" width="400" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Fawzia</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
