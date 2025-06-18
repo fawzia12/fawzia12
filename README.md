@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fawzia</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src= "https://assets6.lottiefiles.com/private_files/lf30_jtkhrafg.json" />/> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 
 - 🔭 I’m currently working on **ecommerce _App**
 
