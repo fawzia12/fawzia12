@@ -16,6 +16,22 @@
 </p>
 
 
+<!-- TECH STACK SHOWCASE - GLASS EFFECT -->
+<div align="center">
+  <h2 style="color: #6C63FF; border-bottom: 3px solid #6C63FF; display: inline-block; margin-bottom: 30px;">⚡ MY POWER STACK ⚡</h2>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; padding: 20px;">
+
+  <!-- Flutter Card -->
+  <div style="background: rgba(2, 101, 148, 0.1); backdrop-filter: blur(12px); border: 2px solid #026594; border-radius: 25px; padding: 30px 20px; text-align: center; box-shadow: 0 20px 40px rgba(2, 101, 148, 0.3);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="70" height="70" />
+    <h3 style="color: #026594; font-size: 28px; margin: 15px 0;">FLUTTER</h3>
+    <div style="height: 8px; width: 100%; background: #333; border-radius: 4px; margin: 20px 0;">
+      <div style="height: 8px; width: 90%; background: #026594; border-radius: 4px;"></div>
+    </div>
+    <p style="color: white;">⚡ 5+ Apps Built<br>📱 E-commerce • Social • Utility</p>
+  </div>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
     <div style="background: rgba(108, 99, 255, 0.1); backdrop-filter: blur(10px); border: 2px solid #6C63FF; border-radius: 15px; padding: 25px; width: 300px;">
