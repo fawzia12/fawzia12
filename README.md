@@ -16,23 +16,84 @@
 </p>
 
 
-<!-- TECH STACK SHOWCASE - GLASS EFFECT -->
-<div align="center">
-  <h2 style="color: #6C63FF; border-bottom: 3px solid #6C63FF; display: inline-block; margin-bottom: 30px;">⚡ MY POWER STACK ⚡</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  
+  <!-- FLUTTER CARD - Main Framework -->
+  <div style="background: linear-gradient(135deg, rgba(2, 101, 148, 0.2), rgba(2, 101, 148, 0.05)); backdrop-filter: blur(10px); border: 2px solid #026594; border-radius: 20px; padding: 25px; width: 320px; box-shadow: 0 0 30px #02659466; transform: scale(1); transition: 0.3s;">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
+      <h3 style="color: #026594; margin: 0; font-size: 24px; text-shadow: 0 0 10px #026594;">FLUTTER</h3>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Widgets-6C63FF?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cupertino-000000?style=for-the-badge&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
+    </div>
+    <p style="color: white; margin-top: 15px; font-size: 14px;">Cross-platform • Beautiful UI • Native Performance</p>
+  </div>
+
+  <!-- FIREBASE CARD - BaaS -->
+  <div style="background: linear-gradient(135deg, rgba(255, 202, 40, 0.2), rgba(255, 202, 40, 0.05)); backdrop-filter: blur(10px); border: 2px solid #FFCA28; border-radius: 20px; padding: 25px; width: 320px; box-shadow: 0 0 30px #FFCA2866; transform: scale(1); transition: 0.3s;">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
+      <h3 style="color: #FFCA28; margin: 0; font-size: 24px; text-shadow: 0 0 10px #FFCA28;">FIREBASE</h3>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/Auth-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Storage-00C851?style=for-the-badge&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloud%20Functions-F24E1E?style=for-the-badge&logo=firebase&logoColor=white" />
+    </div>
+    <p style="color: white; margin-top: 15px; font-size: 14px;">Real-time DB • Authentication • Serverless</p>
+  </div>
+
+  <!-- SUPABASE CARD - Open Source Alternative -->
+  <div style="background: linear-gradient(135deg, rgba(62, 207, 142, 0.2), rgba(62, 207, 142, 0.05)); backdrop-filter: blur(10px); border: 2px solid #3ECF8E; border-radius: 20px; padding: 25px; width: 320px; box-shadow: 0 0 30px #3ECF8E66; transform: scale(1); transition: 0.3s;">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" />
+      <h3 style="color: #3ECF8E; margin: 0; font-size: 24px; text-shadow: 0 0 10px #3ECF8E;">SUPABASE</h3>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Realtime-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Auth-6C63FF?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Storage-FF6B6B?style=for-the-badge&logo=supabase&logoColor=white" />
+    </div>
+    <p style="color: white; margin-top: 15px; font-size: 14px;">PostgreSQL • Real-time • Open Source</p>
+  </div>
+
+  <!-- ALL THREE COMBINED - POWER STACK -->
+  <div style="background: linear-gradient(135deg, rgba(108, 99, 255, 0.2), rgba(62, 207, 142, 0.1), rgba(255, 202, 40, 0.1)); backdrop-filter: blur(10px); border: 2px solid linear-gradient(90deg, #6C63FF, #3ECF8E, #FFCA28); border-radius: 20px; padding: 25px; width: 100%; max-width: 1000px; margin-top: 20px; text-align: center;">
+    <h3 style="color: white; margin: 0 0 15px 0;">⚡ FULL STACK POWER ⚡</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+        <p style="color: #026594; margin: 5px;">Flutter</p>
+      </div>
+      <div style="color: white; font-size: 30px;">+</div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" />
+        <p style="color: #FFCA28; margin: 5px;">Firebase</p>
+      </div>
+      <div style="color: white; font-size: 30px;">+</div>
+      <div style="text-align: center;">
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50" height="50" />
+        <p style="color: #3ECF8E; margin: 5px;">Supabase</p>
+      </div>
+    </div>
+    <p style="color: #47CCCC; margin-top: 20px; font-size: 18px;">🚀 Complete Ecosystem for Modern App Development</p>
+  </div>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; padding: 20px;">
-
-  <!-- Flutter Card -->
-  <div style="background: rgba(2, 101, 148, 0.1); backdrop-filter: blur(12px); border: 2px solid #026594; border-radius: 25px; padding: 30px 20px; text-align: center; box-shadow: 0 20px 40px rgba(2, 101, 148, 0.3);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="70" height="70" />
-    <h3 style="color: #026594; font-size: 28px; margin: 15px 0;">FLUTTER</h3>
-    <div style="height: 8px; width: 100%; background: #333; border-radius: 4px; margin: 20px 0;">
-      <div style="height: 8px; width: 90%; background: #026594; border-radius: 4px;"></div>
-    </div>
-    <p style="color: white;">⚡ 5+ Apps Built<br>📱 E-commerce • Social • Utility</p>
-  </div>
-  
+<!-- HOVER EFFECT STYLES -->
+<style>
+  div[style*="border-radius: 20px;"]:hover {
+    transform: scale(1.02) !important;
+    transition: 0.3s !important;
+    box-shadow: 0 0 50px currentColor !important;
+  }
+</style>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
     <div style="background: rgba(108, 99, 255, 0.1); backdrop-filter: blur(10px); border: 2px solid #6C63FF; border-radius: 15px; padding: 25px; width: 300px;">
       <h3 style="color: #47CCCC;">🚀 LANGUAGES</h3>
