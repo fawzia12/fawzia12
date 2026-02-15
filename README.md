@@ -63,37 +63,6 @@
     <p style="color: white; margin-top: 15px; font-size: 14px;">PostgreSQL • Real-time • Open Source</p>
   </div>
 
-  <!-- ALL THREE COMBINED - POWER STACK -->
-  <div style="background: linear-gradient(135deg, rgba(108, 99, 255, 0.2), rgba(62, 207, 142, 0.1), rgba(255, 202, 40, 0.1)); backdrop-filter: blur(10px); border: 2px solid linear-gradient(90deg, #6C63FF, #3ECF8E, #FFCA28); border-radius: 20px; padding: 25px; width: 100%; max-width: 1000px; margin-top: 20px; text-align: center;">
-    <h3 style="color: white; margin: 0 0 15px 0;">⚡ FULL STACK POWER ⚡</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-      <div style="text-align: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
-        <p style="color: #026594; margin: 5px;">Flutter</p>
-      </div>
-      <div style="color: white; font-size: 30px;">+</div>
-      <div style="text-align: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" />
-        <p style="color: #FFCA28; margin: 5px;">Firebase</p>
-      </div>
-      <div style="color: white; font-size: 30px;">+</div>
-      <div style="text-align: center;">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50" height="50" />
-        <p style="color: #3ECF8E; margin: 5px;">Supabase</p>
-      </div>
-    </div>
-    <p style="color: #47CCCC; margin-top: 20px; font-size: 18px;">🚀 Complete Ecosystem for Modern App Development</p>
-  </div>
-</div>
-
-<!-- HOVER EFFECT STYLES -->
-<style>
-  div[style*="border-radius: 20px;"]:hover {
-    transform: scale(1.02) !important;
-    transition: 0.3s !important;
-    box-shadow: 0 0 50px currentColor !important;
-  }
-</style>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
     <div style="background: rgba(108, 99, 255, 0.1); backdrop-filter: blur(10px); border: 2px solid #6C63FF; border-radius: 15px; padding: 25px; width: 300px;">
       <h3 style="color: #47CCCC;">🚀 LANGUAGES</h3>
