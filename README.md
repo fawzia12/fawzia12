@@ -1,47 +1,4 @@
-<!-- GITHUB-SAFE SNOWFALL ANIMATION - WORKS! -->
-<div align="center">
-  
-  <svg width="100%" height="200" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet" style="background: transparent;">
-    <!-- Animated Snowflakes -->
-    <circle cx="100" cy="50" r="3" fill="#6C63FF" opacity="0.8">
-      <animate attributeName="cy" values="50;180;50" dur="8s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="8s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="200" cy="20" r="4" fill="#47CCCC" opacity="0.8">
-      <animate attributeName="cy" values="20;180;20" dur="7s" repeatCount="indefinite" />
-      <animate attributeName="cx" values="200;220;200" dur="3s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="300" cy="80" r="5" fill="#FF6B6B" opacity="0.6">
-      <animate attributeName="cy" values="80;180;80" dur="9s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="400" cy="10" r="3" fill="#6C63FF" opacity="0.9">
-      <animate attributeName="cy" values="10;180;10" dur="6s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="500" cy="60" r="4" fill="#47CCCC" opacity="0.7">
-      <animate attributeName="cy" values="60;180;60" dur="8s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="600" cy="30" r="5" fill="#FF6B6B" opacity="0.8">
-      <animate attributeName="cy" values="30;180;30" dur="7s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="700" cy="90" r="3" fill="#6C63FF" opacity="0.6">
-      <animate attributeName="cy" values="90;180;90" dur="9s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="750" cy="40" r="4" fill="#47CCCC" opacity="0.8">
-      <animate attributeName="cy" values="40;180;40" dur="8s" repeatCount="indefinite" />
-    </circle>
-    
-    <!-- Text in the middle -->
-    <text x="400" y="120" font-family="Arial" font-size="24" fill="#6C63FF" text-anchor="middle">❄️ Snow Effect ❄️</text>
-  </svg>
-  
-</div>
+
 <!-- Main typing animation - Hi I am a Flutter Developer -->
 
 <p align="center">
