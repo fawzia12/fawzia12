@@ -1,7 +1,7 @@
 <!-- Main typing animation - Hi I am a Flutter Developer -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I+am+a+Flutter+Developer;Multiple App Builder;Build AI Tools;All in One Powerful Ecosystem " alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋;I+am+a+Flutter+Developer;Multiple+App+Builder;Build+AI+Tools;All+in+One+Powerful+Ecosystem" />
 </p>
 
 <!-- Professional animated badge instead of GIF -->
