@@ -1,3 +1,99 @@
+<!-- FULL SNOWFALL ANIMATION FOR GITHUB PROFILE -->
+<div id="snow-container" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 9999;">
+  <canvas id="snow-canvas" style="display: block; width: 100%; height: 100%;"></canvas>
+</div>
+
+<script>
+  // Snowfall Animation - Full Screen Effect
+  (function() {
+    const canvas = document.createElement('canvas');
+    canvas.id = 'snowfall-canvas';
+    canvas.style.position = 'fixed';
+    canvas.style.top = '0';
+    canvas.style.left = '0';
+    canvas.style.width = '100%';
+    canvas.style.height = '100%';
+    canvas.style.pointerEvents = 'none';
+    canvas.style.zIndex = '9999';
+    document.body.appendChild(canvas);
+    
+    const ctx = canvas.getContext('2d');
+    let width, height;
+    let snowflakes = [];
+    
+    function init() {
+      width = window.innerWidth;
+      height = window.innerHeight;
+      canvas.width = width;
+      canvas.height = height;
+      
+      // Create snowflakes
+      const flakeCount = 150;
+      for (let i = 0; i < flakeCount; i++) {
+        snowflakes.push({
+          x: Math.random() * width,
+          y: Math.random() * height,
+          radius: Math.random() * 4 + 1,
+          speed: Math.random() * 3 + 1,
+          opacity: Math.random() * 0.7 + 0.3,
+          sway: Math.random() * 2 - 1
+        });
+      }
+    }
+    
+    function draw() {
+      ctx.clearRect(0, 0, width, height);
+      
+      snowflakes.forEach(flake => {
+        ctx.beginPath();
+        ctx.arc(flake.x, flake.y, flake.radius, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(255, 255, 255, ${flake.opacity})`;
+        ctx.fill();
+        
+        // Move snowflake
+        flake.y += flake.speed;
+        flake.x += Math.sin(flake.y * 0.01) * 0.5 + flake.sway * 0.2;
+        
+        // Reset if out of bounds
+        if (flake.y > height) {
+          flake.y = -10;
+          flake.x = Math.random() * width;
+        }
+        
+        // Wrap around sides
+        if (flake.x > width) flake.x = 0;
+        if (flake.x < 0) flake.x = width;
+      });
+      
+      requestAnimationFrame(draw);
+    }
+    
+    window.addEventListener('resize', () => {
+      width = window.innerWidth;
+      height = window.innerHeight;
+      canvas.width = width;
+      canvas.height = height;
+    });
+    
+    init();
+    draw();
+  })();
+</script>
+
+<!-- Add some style to make snow visible on light/dark modes -->
+<style>
+  #snowfall-canvas {
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8));
+  }
+  
+  /* For dark theme users */
+  @media (prefers-color-scheme: dark) {
+    #snowfall-canvas {
+      filter: drop-shadow(0 0 10px rgba(200, 220, 255, 0.9));
+    }
+  }
+</style>
+
 <!-- Main typing animation - Hi I am a Flutter Developer -->
 
 <p align="center">
