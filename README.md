@@ -1,20 +1,20 @@
 <!-- Main typing animation - Hi I am a Flutter Developer -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I+am+a+Flutter+Developer;Mobile+App+Builder;E-commerce+App+Creator" alt="Typing Animation" />
 </p>
 
-<!-- Secondary animated badge -->
+<!-- Professional animated badge instead of GIF -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fawzia12&label=PROFILE+VIEWS&color=6C63FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/fawzia12?label=FOLLOWERS&color=6C63FF&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/FLUTTER-DEVELOPER-6C63FF?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Developer" />
+  <img src="https://komarev.com/ghpvc/?username=fawzia12&label=PROFILE+VIEWS&color=00FF9D&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/fawzia12?label=FOLLOWERS&color=00FF9D&style=flat-square&logo=github" alt="Followers" />
 </p>
 
-<!-- Flutter developer animation -->
+<!-- Clean developer animation -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0aa634b.gif" width="280" />
 </p>
----
+
 
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
