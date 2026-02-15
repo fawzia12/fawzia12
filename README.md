@@ -1,68 +1,40 @@
-<!-- Typing animation for "Hi, I'm Fawzia" -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3F92F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Fawzia" alt="Typing SVG" />
-</p>
+Create a professional GitHub profile README for a Flutter developer named Fawzia with the following requirements:
 
-<!-- Bubble-style animated line -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" height="30" /> A passionate frontend developer
-</h3>
+**Personal Information:**
+- Name: Fawzia Rahman
+- Current Work: E-commerce Mobile Application
+- Learning: Flutter
+- Collaboration: Looking for Hackathon teams
+- Email: fawziarahman280@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fawzia-rahman-2b705a294/
+- GitHub: fawzia12
 
-<!-- Developer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+**Technical Skills:**
+- Languages & Frameworks: Dart, Flutter, Python
+- Tools & Platforms: Firebase, Git, Figma, Postman
 
----
+**Design Requirements:**
+1. Clean, professional dark theme with purple as primary color (#6C63FF)
+2. Animated typing header
+3. Skills displayed using modern badge-style icons
+4. Professional "About Me" section (use YAML or table format)
+5. GitHub statistics with custom theming (dark background, purple accents)
+6. Social links with styled badges
+7. Organized layout with clear sections
+8. No emojis - use professional icons instead
+9. Include a motivational quote at the bottom
+10. Add visual separation between sections (using dividers)
 
-- 🔭 I’m currently working on **ecommerce _App_**
-- 🌱 I’m currently learning **Flutter**
-- 👯 I’m looking to collaborate on **Hackathon**
-- 📫 How to reach me: **fawziarahman280@gmail.com**
+**Additional Elements:**
+- Include current focus areas
+- Show technology stack with proficiency indicators
+- Add development metrics section
+- Professional footer with animation or design element
 
----
+**Style Guidelines:**
+- Font: Use modern, clean fonts
+- Color Palette: Dark background, purple accents, complementary colors for variety
+- Layout: Clean, organized, easy to scan
+- Avoid: Cartoonish elements, excessive animations, informal language
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/fawzia-rahman-2b705a294/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawzia12&show_icons=true&locale=en&layout=compact" alt="fawzia12" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawzia12&show_icons=true&locale=en" alt="fawzia12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fawzia12&" alt="fawzia12" /></p>
+Make it look like a professional developer portfolio that stands out to recruiters and other developers.
