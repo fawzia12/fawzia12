@@ -1,45 +1,47 @@
-<!-- 3D SNOWFLAKE EFFECT -->
-<style>
-  @keyframes snowing {
-    0% { transform: translateY(-10px) rotate(0deg); opacity: 1; }
-    100% { transform: translateY(100vh) rotate(720deg); opacity: 0; }
-  }
+<!-- GITHUB-SAFE SNOWFALL ANIMATION - WORKS! -->
+<div align="center">
   
-  .snow-particle {
-    position: fixed;
-    top: -20px;
-    color: white;
-    font-size: 20px;
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
-    z-index: 9999;
-    pointer-events: none;
-    animation: snowing linear infinite;
-  }
-</style>
-
-<script>
-  // 3D Snowflakes with different shapes
-  const snowShapes = ['❄️', '❅', '❆', '✻', '✼', '✽', '✾', '❀', '❁', '⭐'];
-  
-  function create3DSnow() {
-    const snow = document.createElement('div');
-    snow.className = 'snow-particle';
-    snow.style.left = Math.random() * 100 + '%';
-    snow.style.animationDuration = Math.random() * 8 + 5 + 's';
-    snow.style.fontSize = Math.random() * 20 + 10 + 'px';
-    snow.style.opacity = Math.random() * 0.8 + 0.2;
-    snow.innerHTML = snowShapes[Math.floor(Math.random() * snowShapes.length)];
-    snow.style.filter = `blur(${Math.random() * 0.5}px) drop-shadow(0 0 5px #6C63FF)`;
+  <svg width="100%" height="200" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet" style="background: transparent;">
+    <!-- Animated Snowflakes -->
+    <circle cx="100" cy="50" r="3" fill="#6C63FF" opacity="0.8">
+      <animate attributeName="cy" values="50;180;50" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="8s" repeatCount="indefinite" />
+    </circle>
     
-    document.body.appendChild(snow);
+    <circle cx="200" cy="20" r="4" fill="#47CCCC" opacity="0.8">
+      <animate attributeName="cy" values="20;180;20" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="200;220;200" dur="3s" repeatCount="indefinite" />
+    </circle>
     
-    setTimeout(() => snow.remove(), 15000);
-  }
+    <circle cx="300" cy="80" r="5" fill="#FF6B6B" opacity="0.6">
+      <animate attributeName="cy" values="80;180;80" dur="9s" repeatCount="indefinite" />
+    </circle>
+    
+    <circle cx="400" cy="10" r="3" fill="#6C63FF" opacity="0.9">
+      <animate attributeName="cy" values="10;180;10" dur="6s" repeatCount="indefinite" />
+    </circle>
+    
+    <circle cx="500" cy="60" r="4" fill="#47CCCC" opacity="0.7">
+      <animate attributeName="cy" values="60;180;60" dur="8s" repeatCount="indefinite" />
+    </circle>
+    
+    <circle cx="600" cy="30" r="5" fill="#FF6B6B" opacity="0.8">
+      <animate attributeName="cy" values="30;180;30" dur="7s" repeatCount="indefinite" />
+    </circle>
+    
+    <circle cx="700" cy="90" r="3" fill="#6C63FF" opacity="0.6">
+      <animate attributeName="cy" values="90;180;90" dur="9s" repeatCount="indefinite" />
+    </circle>
+    
+    <circle cx="750" cy="40" r="4" fill="#47CCCC" opacity="0.8">
+      <animate attributeName="cy" values="40;180;40" dur="8s" repeatCount="indefinite" />
+    </circle>
+    
+    <!-- Text in the middle -->
+    <text x="400" y="120" font-family="Arial" font-size="24" fill="#6C63FF" text-anchor="middle">❄️ Snow Effect ❄️</text>
+  </svg>
   
-  // Create snow every 300ms
-  setInterval(create3DSnow, 300);
-</script>
-
+</div>
 <!-- Main typing animation - Hi I am a Flutter Developer -->
 
 <p align="center">
