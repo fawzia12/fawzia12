@@ -1,21 +1,27 @@
-<!-- Matrix-style typing animation -->
+<!-- Matrix-style typing animation - Now showing Flutter Developer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+fawzia%2Fdeveloper;%24+./start-coding" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Fawzia%2FFlutter+Dev;%24+flutter+run+--profile;%24+Building+%40+E-commerce" alt="Terminal Typing" />
+</p>
+
+<!-- Second typing animation specifically for Flutter -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=500&color=6C63FF&center=true&vCenter=true&width=435&lines=📱+Flutter+Developer;🚀+Mobile+App+Builder;✨+UI%2FUX+Enthusiast" alt="Flutter Developer Typing" />
 </p>
 
 <!-- Professional animated badge instead of GIF -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fawzia12&label=PROFILE+VIEWS&color=00FF9D&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/fawzia12?label=FOLLOWERS&color=00FF9D&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/FLUTTER-DEVELOPER-6C63FF?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Developer" />
 </p>
 
-<!-- Clean developer animation -->
+<!-- Flutter-focused developer animation -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0aa634b.gif" width="280" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="280" />
 </p>
 
 ---
-  <h2 style="color: #6C63FF; border-bottom: 3px solid #6C63FF; display: inline-block;">⚡ TECH STACK</h2>
+
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
     <div style="background: rgba(108, 99, 255, 0.1); backdrop-filter: blur(10px); border: 2px solid #6C63FF; border-radius: 15px; padding: 25px; width: 300px;">
